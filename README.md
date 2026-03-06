@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on ResQMesh<br><br>🌱 I’m currently learning DSA, Development & ML<br><br>📫 How to reach me : negiriya2005@gmail.com</p>
+<p align="left">🔭 I’m currently working on Projects<br><br>🌱 I’m currently learning DSA, Development & ML<br><br>📫 How to reach me : negiriya2005@gmail.com</p>
 
 ###
 
